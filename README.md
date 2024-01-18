@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 ### Contact
-[![Email]([https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white))](https://mail.google.com/mail/u/0/?to=empyrealwhale@gmail.com&su=SUBJECT&body=BODY&fs=1&tf=cm)
+[![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?to=empyrealwhale@gmail.com&su=SUBJECT&body=BODY&fs=1&tf=cm)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/empyrealwhale)
