@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### Skills
-[![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)](https://developer.android.com/){:target="_blank"}
+[![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)](https://developer.android.com/){target="_blank"}
 <a href="https://developer.android.com/" target="_blank">
   <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" alt="Android">
 </a>
