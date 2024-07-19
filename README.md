@@ -1,13 +1,15 @@
 <h1 align="center">☁🐋☁</h1>
 
 <svg>
-  <style>
-    .emojis {
-      font-size: 36px;
-      text-align: center;
-    }
-  </style>
-  <p class="emojis">emojis</p>
+  <div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+      .emojis {
+        font-size: 36px;
+        text-align: center;
+      }
+    </style>
+    <p class="emojis">emojis</p>
+  </div>
 </svg>
 
 ### Skills
