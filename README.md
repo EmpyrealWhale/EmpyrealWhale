@@ -20,6 +20,10 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
 [![SqLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/)
 </br>
+![Aircall Badge](https://img.shields.io/badge/Aircall-00B388?logo=aircall&logoColor=fff&style=plastic)
+![Aircall Badge](https://img.shields.io/badge/Aircall-00B388?logo=aircall&logoColor=fff&style=flat-square)
+![Aircall Badge](https://img.shields.io/badge/Aircall-00B388?logo=aircall&logoColor=fff&style=flat)
+</br>
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 
 ### Stats
