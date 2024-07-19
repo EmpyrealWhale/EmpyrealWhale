@@ -1,12 +1,6 @@
 <svg>
   <foreignObject>
-    <style>
-      .emojis {
-        font-size: 36px;
-        text-align: center;
-      }
-    </style>
-    <h1>☁🐋☁ meow</h1>
+    <h1 align="center">☁🐋☁</h1>
   </foreignObject>
 </svg>
 <p align="center">&#9729;&#128011;&#9729;</p>
