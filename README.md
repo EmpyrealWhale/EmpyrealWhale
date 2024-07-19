@@ -20,9 +20,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
 [![SqLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/)
 </br>
-![Aircall Badge](https://img.shields.io/badge/Aircall-00B388?logo=aircall&logoColor=fff&style=plastic)
-![Aircall Badge](https://img.shields.io/badge/Aircall-00B388?logo=aircall&logoColor=fff&style=flat-square)
-![Aircall Badge](https://img.shields.io/badge/Aircall-00B388?logo=aircall&logoColor=fff&style=flat)
 </br>
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 
@@ -30,5 +27,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empyrealwhale&layout=compact)
 
 ### Contact
-[![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?to=empyrealwhale@gmail.com&su=SUBJECT&body=BODY&fs=1&tf=cm)
+[![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:empyrealwhale@gmail.com?subject=SUBJECT&body=BODY)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/empyrealwhale)
