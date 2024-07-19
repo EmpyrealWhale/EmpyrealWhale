@@ -1,4 +1,8 @@
-<span style="font-size: 64px; text-align: center;">&#9729;&#128011;&#9729;</span>
+<span class="emojis">&#9729;&#128011;&#9729;</span>
+.emojis {
+  font-size: 36px;
+  text-align: center;
+}
 
 ### Skills
 [![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)](https://developer.android.com/)
