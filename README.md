@@ -1,6 +1,4 @@
-
-<h1 align="center">☁🐋☁</h1>
-
+<h3 align="center">☁🐋☁</h3>
 
 ### Skills
 [![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)](https://developer.android.com/)
