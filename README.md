@@ -3,7 +3,6 @@
     <h1 align="center">☁🐋☁</h1>
   </foreignObject>
 </svg>
-<p align="center">&#9729;&#128011;&#9729;</p>
 
 ### Skills
 [![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)](https://developer.android.com/)
