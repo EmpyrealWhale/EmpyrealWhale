@@ -1,4 +1,14 @@
-<h3 align="center">☁🐋☁</h3>
+<h1 align="center">☁🐋☁</h1>
+
+<svg>
+  <style>
+    .emojis {
+      font-size: 36px;
+      text-align: center;
+    }
+  </style>
+  <p class="emojis">emojis</p>
+</svg>
 
 ### Skills
 [![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)](https://developer.android.com/)
