@@ -1,19 +1,5 @@
 <h1 align="center">☁🐋☁</h1>
 
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-              p {
-                font-size: 36px;
-                text-align: center;
-              }
-            </style>
-            <p>HELLO WORLD!</p>
-        </div>
-    </foreignObject>
-</svg>
-
 ### Skills
 [![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)](https://developer.android.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
