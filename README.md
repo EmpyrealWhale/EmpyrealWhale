@@ -1,5 +1,5 @@
 ☁🐋☁
-<span style="font-size: 48px; text-align: center">&#9729; --- &#65039;</span>
+<span style="font-size: 64px; text-align: center">&#9729;&#9729;</span>
 
 ### Skills
 [![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)](https://developer.android.com/)
