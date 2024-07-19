@@ -1,8 +1,6 @@
-<svg>
-  <foreignObject>
-    <h1 align="center">☁🐋☁</h1>
-  </foreignObject>
-</svg>
+
+<h1 align="center">☁🐋☁</h1>
+
 
 ### Skills
 [![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)](https://developer.android.com/)
