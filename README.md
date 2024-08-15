@@ -25,9 +25,6 @@
 [![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/)
 
 
-### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empyrealwhale&layout=compact)
-
 ### Contact
 [![Email](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:empyrealwhale@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/empyrealwhale)
